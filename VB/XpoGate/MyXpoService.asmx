@@ -1,0 +1,1 @@
+<%@ WebService Language="vb" CodeBehind="~/App_Code/MyXpoService.vb" Class="MyXpoService" %>
