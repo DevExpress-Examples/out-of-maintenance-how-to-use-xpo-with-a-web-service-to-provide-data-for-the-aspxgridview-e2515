@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyWebDataStore.cs](./CS/XPO_with_Web Service/App_Code/MyWebDataStore.cs) (VB: [MyWebDataStore.vb](./VB/XPO_with_Web Service/App_Code/MyWebDataStore.vb))
+* [Objects.cs](./CS/XPO_with_Web Service/App_Code/Objects.cs) (VB: [Objects.vb](./VB/XPO_with_Web Service/App_Code/Objects.vb))
+* [XpoHelper.cs](./CS/XPO_with_Web Service/App_Code/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/XPO_with_Web Service/App_Code/XpoHelper.vb))
+* [Default.aspx](./CS/XPO_with_Web Service/Default.aspx) (VB: [Default.aspx.vb](./VB/XPO_with_Web Service/Default.aspx.vb))
+* [Default.aspx.cs](./CS/XPO_with_Web Service/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/XPO_with_Web Service/Default.aspx.vb))
+* [MyXpoService.cs](./CS/XpoGate/App_Code/MyXpoService.cs) (VB: [MyXpoService.vb](./VB/XpoGate/App_Code/MyXpoService.vb))
+* [Global.asax](./CS/XpoGate/Global.asax) (VB: [Global.asax](./VB/XpoGate/Global.asax))
+<!-- default file list end -->
 # How to use XPO with a Web Service to provide data for the ASPxGridView
 
 
